@@ -2,5 +2,5 @@
 package net.cfrost.util;
 
 public class Print {
-  public void print(Object obj) {}
+  public static void print(Object obj) {}
 }
